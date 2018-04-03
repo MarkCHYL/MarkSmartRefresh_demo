@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mark/Desktop/Document/GitHub/SmartRefresh_demo/my_pulltorefreshdemo02/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/SmartRefresh_demo/my_pulltorefreshdemo02/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6464ea900a8397244ebe7f962233a28f11e05703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mark/Desktop/Document/GitHub/SmartRefresh_demo/my_pulltorefreshdemo02/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c670b28518cbd5c2049fcb62413b3afb4be98540">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/SmartRefresh_demo/my_pulltorefreshdemo02/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86b25d35516b05e7d5ef0827b334079270f5bd5d/classes.dex" />
+    </item>
+
+</items>
